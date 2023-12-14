@@ -3,6 +3,9 @@ import os
 import pandas as pd
 from df_descriptives import descriptives
 
+np.set_printoptions(suppress = True,
+                    formatter = {'float_kind':'{:0.2f}'.format})
+
 os.chdir(os.path.dirname(os.path.abspath(__file__))) # Set working directory to directory of current script
 
 # Load csv file as dataframe

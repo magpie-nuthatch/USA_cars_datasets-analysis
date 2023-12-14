@@ -2,6 +2,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import scipy.stats as stats
+np.set_printoptions(suppress = True,
+                    formatter = {'float_kind':'{:0.2f}'.format})
 
 df = pd.read_csv("csv_trans\\USA_cars_datasets_trans_initial.csv",
                  encoding='latin1',
@@ -45,5 +47,3 @@ def normality(df, bin_amount):
                     pass
         else:
             pass
-
-normality(df, 30)

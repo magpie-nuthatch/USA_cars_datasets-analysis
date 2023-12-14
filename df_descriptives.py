@@ -24,6 +24,9 @@ def descriptives(df, unique_values_amount):
             print(f"Unique values in column {column}:")
             for value in unique_values:
                 print(value)
+            print()
+            print(f"Value counts for column {column}:")
+            print(f"{df[column].value_counts()}")
         print()
 
 descriptives(df, 30)
