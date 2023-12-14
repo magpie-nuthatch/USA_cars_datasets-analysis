@@ -95,7 +95,7 @@ conditionlist = []
 for condition in df_trans["condition"]:
     if "minutes" in condition or "hours" in condition:
         conditionlist.append("Less than one day left")
-    elif "7 days left" in condition or "8 days left" in condition or "9 days left" in condition:
+    elif "8 days left" in condition or "9 days left" in condition or "10 days left" in condition or "11 days left" in condition or "12 days left" in condition or "13 days left" in condition or "14 days left" in condition:
         conditionlist.append("More than one week left")
     else:
         conditionlist.append(condition)
@@ -115,5 +115,5 @@ descriptives(df_trans,
 
 # Export transformed dataframe as csv file
 
-df_trans.to_csv("csv\\USA_cars_datasets_trans_initial.csv",
+df_trans.to_csv("csv_trans\\USA_cars_datasets_trans_initial.csv",
                 sep=";")

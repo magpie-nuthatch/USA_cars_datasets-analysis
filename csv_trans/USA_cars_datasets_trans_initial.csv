@@ -1,5 +1,5 @@
 ;price;brand;model;year;mileage;state;color_simple;condition_simple
-0;6300.0;toyota;cruiser;2008;274117.0;new jersey;black;10 days left
+0;6300.0;toyota;cruiser;2008;274117.0;new jersey;black;More than one week left
 1;2899.0;ford;se;2011;190552.0;tennessee;silver;6 days left
 2;5350.0;dodge;mpv;2018;39590.0;georgia;silver;2 days left
 4;27700.0;chevrolet;1500;2018;6654.0;florida;red;Less than one day left
@@ -163,7 +163,7 @@
 254;4700.0;ford;chassis;2005;225236.0;florida;;Less than one day left
 256;4880.0;ford;mpv;2016;36876.0;texas;silver;2 days left
 257;14500.0;dodge;pickup;2006;111782.0;pennsylvania;silver;3 days left
-261;33000.0;chevrolet;1500;2018;52521.0;ontario;white;10 days left
+261;33000.0;chevrolet;1500;2018;52521.0;ontario;white;More than one week left
 263;900.0;ford;van;2003;142027.0;florida;white;Less than one day left
 265;19500.0;ford;drw;2011;76897.0;pennsylvania;white;2 days left
 266;17100.0;chevrolet;malibu;2019;15780.0;washington;white;2 days left
@@ -182,7 +182,7 @@
 283;31700.0;dodge;durango;2019;26549.0;ohio;red;Less than one day left
 286;7340.0;ford;doors;2019;15854.0;florida;gray;Less than one day left
 289;6530.0;jeep;mpv;2019;10185.0;georgia;black;Less than one day left
-291;12700.0;kia;soul;2019;23514.0;california;silver;10 days left
+291;12700.0;kia;soul;2019;23514.0;california;silver;More than one week left
 292;13800.0;kia;sorento;2017;86959.0;north carolina;gray;3 days left
 293;;chevrolet;pickup;1998;258631.0;texas;gray;Less than one day left
 295;7400.0;ford;doors;2019;16482.0;florida;gray;Less than one day left
@@ -202,23 +202,23 @@
 319;25.0;chevrolet;pickup;2010;149189.0;colorado;white;Less than one day left
 322;;ford;chassis;1994;;california;green;Less than one day left
 324;5520.0;gmc;mpv;2017;35821.0;virginia;silver;Less than one day left
-325;4050.0;heartland;pioneer;2018;1.0;pennsylvania;gray;More than one week left
+325;4050.0;heartland;pioneer;2018;1.0;pennsylvania;gray;7 days left
 326;14810.0;infiniti;mpv;2019;32611.0;florida;white;Less than one day left
 328;2960.0;chrysler;van;2008;164048.0;florida;red;Less than one day left
 332;6270.0;gmc;mpv;2017;70443.0;virginia;black;Less than one day left
-333;1880.0;heartland;trail;2012;1.0;pennsylvania;white;More than one week left
+333;1880.0;heartland;trail;2012;1.0;pennsylvania;white;7 days left
 334;10050.0;infiniti;mpv;2019;18229.0;florida;gray;Less than one day left
 336;26900.0;chevrolet;traverse;2018;42941.0;missouri;black;Less than one day left
 341;5600.0;gmc;mpv;2017;59808.0;virginia;black;Less than one day left
-342;6680.0;heartland;country;2011;1.0;pennsylvania;gray;More than one week left
+342;6680.0;heartland;country;2011;1.0;pennsylvania;gray;7 days left
 343;10120.0;infiniti;mpv;2019;20681.0;florida;white;Less than one day left
 348;5630.0;gmc;mpv;2017;27195.0;virginia;black;Less than one day left
-349;;heartland;sundance;2009;1.0;pennsylvania;white;More than one week left
+349;;heartland;sundance;2009;1.0;pennsylvania;white;7 days left
 350;2800.0;jaguar;doors;2019;20849.0;florida;black;Less than one day left
 353;18712.0;ford;f-150;2017;67347.0;michigan;black;Less than one day left
 354;;ford;pickup;2009;180364.0;tennessee;black;2 days left
 356;6300.0;gmc;mpv;2017;117400.0;virginia;black;Less than one day left
-357;2220.0;heartland;country;2010;1.0;pennsylvania;white;More than one week left
+357;2220.0;heartland;country;2010;1.0;pennsylvania;white;7 days left
 358;6930.0;jeep;mpv;2019;47798.0;florida;red;Less than one day left
 362;25.0;ford;pickup;1994;206162.0;georgia;white;2 days left
 363;950.0;ford;pk;2001;229886.0;illinois;red;Less than one day left
@@ -233,7 +233,7 @@
 388;4950.0;honda;mpv;2016;71404.0;virginia;black;Less than one day left
 389;3760.0;hyundai;doors;2019;30382.0;florida;silver;Less than one day left
 391;;cadillac;coupe;2000;105169.0;virginia;white;More than one week left
-399;61200.0;bmw;series;2020;7509.0;california;black;More than one week left
+399;61200.0;bmw;series;2020;7509.0;california;black;7 days left
 401;13500.0;bmw;series;2014;33542.0;new jersey;black;2 days left
 406;8160.0;honda;van;2015;109027.0;virginia;gray;2 days left
 411;1825.0;bmw;coupe;2008;77984.0;georgia;white;2 days left
@@ -521,12 +521,12 @@
 809;22500.0;dodge;charger;2018;26026.0;wisconsin;gray;4 days left
 811;16500.0;dodge;caravan;2019;27327.0;nebraska;gray;Less than one day left
 812;14500.0;dodge;journey;2019;30229.0;nebraska;silver;Less than one day left
-813;30000.0;dodge;charger;2019;43294.0;ontario;white;10 days left
-814;30000.0;dodge;charger;2019;54309.0;ontario;orange;10 days left
-815;30000.0;dodge;charger;2019;52822.0;ontario;white;10 days left
-816;30000.0;dodge;charger;2019;45554.0;ontario;white;10 days left
-817;30000.0;dodge;charger;2019;37538.0;ontario;white;10 days left
-818;29500.0;dodge;charger;2019;35153.0;ontario;red;10 days left
+813;30000.0;dodge;charger;2019;43294.0;ontario;white;More than one week left
+814;30000.0;dodge;charger;2019;54309.0;ontario;orange;More than one week left
+815;30000.0;dodge;charger;2019;52822.0;ontario;white;More than one week left
+816;30000.0;dodge;charger;2019;45554.0;ontario;white;More than one week left
+817;30000.0;dodge;charger;2019;37538.0;ontario;white;More than one week left
+818;29500.0;dodge;charger;2019;35153.0;ontario;red;More than one week left
 819;21600.0;dodge;challenger;2019;23783.0;washington;white;2 days left
 820;22600.0;dodge;charger;2019;30759.0;washington;black;2 days left
 821;16300.0;dodge;caravan;2019;38922.0;washington;gray;2 days left
@@ -545,7 +545,7 @@
 837;17500.0;dodge;caravan;2019;23987.0;florida;black;2 days left
 840;11500.0;dodge;caravan;2018;50193.0;pennsylvania;;Less than one day left
 841;6500.0;dodge;journey;2017;74392.0;pennsylvania;black;Less than one day left
-844;8350.0;dodge;journey;2017;90685.0;florida;white;13 days left
+844;8350.0;dodge;journey;2017;90685.0;florida;white;More than one week left
 845;27900.0;dodge;charger;2017;54141.0;florida;orange;2 days left
 849;20200.0;dodge;caravan;2019;24722.0;illinois;black;Less than one day left
 850;29300.0;dodge;durango;2019;41198.0;illinois;silver;Less than one day left
@@ -591,7 +591,7 @@
 896;13800.0;dodge;journey;2018;28469.0;florida;red;Less than one day left
 897;30000.0;dodge;durango;2019;29086.0;missouri;gray;More than one week left
 898;14800.0;dodge;caravan;2017;35991.0;florida;gray;Less than one day left
-899;8500.0;dodge;journey;2017;62224.0;missouri;black;More than one week left
+899;8500.0;dodge;journey;2017;62224.0;missouri;black;7 days left
 902;2500.0;dodge;van;2013;163260.0;tennessee;red;Less than one day left
 903;28700.0;dodge;charger;2018;19636.0;california;black;Less than one day left
 904;18500.0;dodge;challenger;2018;34272.0;california;gray;2 days left
@@ -771,7 +771,7 @@
 1114;31500.0;dodge;durango;2018;20907.0;illinois;white;2 days left
 1115;17400.0;dodge;durango;2017;89795.0;illinois;red;2 days left
 1116;26000.0;dodge;durango;2017;57158.0;illinois;white;2 days left
-1119;21000.0;dodge;charger;2018;12554.0;texas;gray;10 days left
+1119;21000.0;dodge;charger;2018;12554.0;texas;gray;More than one week left
 1122;15800.0;dodge;caravan;2019;28038.0;michigan;silver;Less than one day left
 1123;16900.0;dodge;journey;2019;26643.0;michigan;red;Less than one day left
 1124;25000.0;dodge;durango;2019;36127.0;michigan;white;Less than one day left
@@ -846,14 +846,14 @@
 1195;23000.0;dodge;durango;2017;30309.0;virginia;gray;Less than one day left
 1196;15000.0;dodge;journey;2018;42303.0;north carolina;red;2 days left
 1197;15000.0;dodge;journey;2018;35326.0;north carolina;white;2 days left
-1201;28700.0;ford;doors;2015;29733.0;connecticut;red;12 days left
-1203;17347.0;ford;doors;2015;54396.0;massachusetts;black;12 days left
-1205;25888.0;ford;doors;2015;2807.0;new jersey;black;12 days left
+1201;28700.0;ford;doors;2015;29733.0;connecticut;red;More than one week left
+1203;17347.0;ford;doors;2015;54396.0;massachusetts;black;More than one week left
+1205;25888.0;ford;doors;2015;2807.0;new jersey;black;More than one week left
 1206;8500.0;ford;fusion;2017;78739.0;tennessee;black;2 days left
-1207;21289.0;ford;doors;2015;71955.0;new york;gray;12 days left
-1208;17999.0;ford;doors;2015;48472.0;new jersey;yellow;12 days left
-1210;30977.0;ford;doors;2015;28937.0;pennsylvania;orange;12 days left
-1211;13799.0;ford;doors;2015;83693.0;new jersey;red;12 days left
+1207;21289.0;ford;doors;2015;71955.0;new york;gray;More than one week left
+1208;17999.0;ford;doors;2015;48472.0;new jersey;yellow;More than one week left
+1210;30977.0;ford;doors;2015;28937.0;pennsylvania;orange;More than one week left
+1211;13799.0;ford;doors;2015;83693.0;new jersey;red;More than one week left
 1212;20500.0;ford;srw;2014;90888.0;arizona;white;2 days left
 1213;8500.0;ford;drw;2012;216942.0;texas;white;Less than one day left
 1215;65500.0;ford;srw;2019;6500.0;indiana;black;Less than one day left
@@ -1005,7 +1005,7 @@
 1413;31800.0;ford;el;2017;29328.0;florida;silver;Less than one day left
 1417;45000.0;ford;expedition;2019;18153.0;pennsylvania;white;3 days left
 1418;49500.0;ford;expedition;2019;17689.0;pennsylvania;black;3 days left
-1419;3000.0;ford;van;2012;137171.0;missouri;white;More than one week left
+1419;3000.0;ford;van;2012;137171.0;missouri;white;7 days left
 1421;25300.0;ford;edge;2019;26422.0;pennsylvania;black;2 days left
 1423;45500.0;ford;expedition;2019;18767.0;pennsylvania;gray;3 days left
 1424;9100.0;ford;fiesta;2018;38289.0;minnesota;silver;Less than one day left
@@ -1081,10 +1081,10 @@
 1510;23400.0;ford;transit;2019;16391.0;oklahoma;white;Less than one day left
 1511;28000.0;ford;f-150;2019;11437.0;pennsylvania;white;3 days left
 1512;23400.0;ford;transit;2019;17964.0;oklahoma;white;Less than one day left
-1513;28000.0;ford;f-150;2018;5440.0;texas;black;10 days left
+1513;28000.0;ford;f-150;2018;5440.0;texas;black;More than one week left
 1514;24900.0;ford;f-150;2019;13035.0;pennsylvania;white;3 days left
 1515;23500.0;ford;transit;2019;15759.0;oklahoma;white;Less than one day left
-1516;36000.0;ford;f-150;2018;30002.0;texas;gray;10 days left
+1516;36000.0;ford;f-150;2018;30002.0;texas;gray;More than one week left
 1517;28700.0;ford;f-150;2019;13673.0;pennsylvania;white;3 days left
 1518;16000.0;ford;fusion;2018;24480.0;oregon;silver;Less than one day left
 1519;31000.0;ford;f-150;2019;13230.0;pennsylvania;white;3 days left
@@ -1150,10 +1150,10 @@
 1599;22500.0;ford;transit;2019;25623.0;pennsylvania;white;2 days left
 1600;29000.0;ford;f-150;2019;11669.0;colorado;white;Less than one day left
 1602;25500.0;ford;transit;2019;13644.0;pennsylvania;white;2 days left
-1604;18900.0;ford;doors;2015;44456.0;new york;gray;10 days left
+1604;18900.0;ford;doors;2015;44456.0;new york;gray;More than one week left
 1605;31500.0;ford;wagon;2019;20357.0;pennsylvania;black;2 days left
-1608;18288.0;ford;doors;2015;45218.0;new york;gray;10 days left
-1611;18299.0;ford;doors;2015;59869.0;pennsylvania;silver;10 days left
+1608;18288.0;ford;doors;2015;45218.0;new york;gray;More than one week left
+1611;18299.0;ford;doors;2015;59869.0;pennsylvania;silver;More than one week left
 1612;10000.0;ford;escape;2017;35021.0;colorado;silver;More than one week left
 1616;31500.0;ford;wagon;2019;23222.0;pennsylvania;black;2 days left
 1620;22800.0;ford;wagon;2019;32526.0;pennsylvania;white;2 days left
@@ -1244,11 +1244,11 @@
 1737;46900.0;ford;max;2019;41399.0;virginia;gray;Less than one day left
 1738;26500.0;ford;f-150;2019;11734.0;pennsylvania;gray;1 days left
 1739;24700.0;ford;explorer;2019;41628.0;nevada;silver;2 days left
-1740;12600.0;ford;focus;2017;15075.0;new jersey;gray;More than one week left
+1740;12600.0;ford;focus;2017;15075.0;new jersey;gray;7 days left
 1741;31800.0;ford;f-150;2019;26591.0;nevada;red;2 days left
 1742;24500.0;ford;f-150;2019;22906.0;nevada;white;2 days left
 1743;26000.0;ford;f-150;2019;33462.0;virginia;white;Less than one day left
-1744;21000.0;ford;f-150;2017;32747.0;pennsylvania;gray;More than one week left
+1744;21000.0;ford;f-150;2017;32747.0;pennsylvania;gray;7 days left
 1745;22500.0;ford;f-150;2019;33717.0;nevada;white;2 days left
 1747;23100.0;ford;f-150;2019;23512.0;nevada;red;2 days left
 1749;19600.0;ford;mustang;2019;33324.0;nevada;gray;2 days left
@@ -1324,38 +1324,38 @@
 1871;25000.0;ford;explorer;2017;32454.0;michigan;red;Less than one day left
 1872;28500.0;ford;explorer;2019;21800.0;florida;black;2 days left
 1873;8000.0;ford;cutaway;2014;231769.0;florida;yellow;Less than one day left
-1874;19990.0;ford;doors;2016;23796.0;connecticut;black;11 days left
+1874;19990.0;ford;doors;2016;23796.0;connecticut;black;More than one week left
 1875;34400.0;ford;max;2019;42506.0;florida;gray;2 days left
-1876;30999.0;ford;doors;2016;6249.0;connecticut;black;11 days left
+1876;30999.0;ford;doors;2016;6249.0;connecticut;black;More than one week left
 1877;41000.0;ford;expedition;2019;47496.0;florida;black;2 days left
-1878;27999.0;ford;doors;2016;10700.0;massachusetts;gray;11 days left
+1878;27999.0;ford;doors;2016;10700.0;massachusetts;gray;More than one week left
 1879;42000.0;ford;expedition;2019;39604.0;florida;black;2 days left
 1880;8000.0;ford;cutaway;2013;250831.0;new jersey;;Less than one day left
-1881;29795.0;ford;doors;2016;7275.0;connecticut;yellow;11 days left
+1881;29795.0;ford;doors;2016;7275.0;connecticut;yellow;More than one week left
 1882;24700.0;ford;edge;2019;8806.0;florida;black;Less than one day left
-1883;13995.0;ford;doors;2016;105115.0;new jersey;gray;11 days left
+1883;13995.0;ford;doors;2016;105115.0;new jersey;gray;More than one week left
 1885;35400.0;ford;max;2019;36167.0;florida;white;2 days left
-1886;24549.0;ford;doors;2016;44941.0;new york;black;11 days left
+1886;24549.0;ford;doors;2016;44941.0;new york;black;More than one week left
 1888;15800.0;ford;escape;2019;26637.0;florida;black;2 days left
-1889;18500.0;ford;doors;2016;45814.0;new york;black;11 days left
+1889;18500.0;ford;doors;2016;45814.0;new york;black;More than one week left
 1890;32000.0;ford;f-150;2019;17310.0;minnesota;red;Less than one day left
 1891;28300.0;ford;explorer;2019;24116.0;florida;gray;2 days left
 1892;10500.0;ford;d;2019;14128.0;florida;black;Less than one day left
-1893;24970.0;ford;doors;2016;49882.0;new york;green;11 days left
+1893;24970.0;ford;doors;2016;49882.0;new york;green;More than one week left
 1894;13800.0;ford;fusion;2019;38964.0;minnesota;black;Less than one day left
-1898;28990.0;ford;doors;2016;15825.0;massachusetts;yellow;11 days left
+1898;28990.0;ford;doors;2016;15825.0;massachusetts;yellow;More than one week left
 1899;50000.0;ford;max;2019;29499.0;minnesota;black;Less than one day left
-1903;46999.0;ford;doors;2016;16956.0;new jersey;;11 days left
+1903;46999.0;ford;doors;2016;16956.0;new jersey;;More than one week left
 1904;16700.0;ford;fusion;2019;36896.0;minnesota;black;Less than one day left
 1906;28900.0;ford;f-150;2019;24795.0;florida;black;1 days left
-1907;30800.0;ford;doors;2016;16771.0;new jersey;red;11 days left
+1907;30800.0;ford;doors;2016;16771.0;new jersey;red;More than one week left
 1908;27100.0;ford;f-150;2019;28692.0;minnesota;silver;Less than one day left
 1910;26000.0;ford;f-150;2019;19793.0;florida;black;2 days left
-1911;17900.0;ford;doors;2016;27940.0;massachusetts;black;11 days left
+1911;17900.0;ford;doors;2016;27940.0;massachusetts;black;More than one week left
 1912;23400.0;ford;flex;2019;24987.0;minnesota;black;Less than one day left
 1913;29800.0;ford;mustang;2016;18367.0;illinois;black;Less than one day left
 1914;23700.0;ford;flex;2019;14109.0;florida;gray;1 days left
-1916;33995.0;ford;doors;2016;27369.0;new jersey;black;11 days left
+1916;33995.0;ford;doors;2016;27369.0;new jersey;black;More than one week left
 1917;23500.0;ford;flex;2019;30208.0;minnesota;white;Less than one day left
 1918;32500.0;ford;explorer;2019;24024.0;florida;black;2 days left
 1920;39000.0;ford;f-150;2019;8404.0;minnesota;black;Less than one day left
@@ -1363,70 +1363,70 @@
 1922;32500.0;ford;explorer;2019;24126.0;florida;black;2 days left
 1924;26900.0;ford;f-150;2019;31713.0;minnesota;black;Less than one day left
 1925;11200.0;ford;edge;2016;109996.0;new york;gray;Less than one day left
-1926;21000.0;ford;doors;2018;6821.0;new york;red;11 days left
+1926;21000.0;ford;doors;2018;6821.0;new york;red;More than one week left
 1927;32000.0;ford;f-150;2019;17867.0;minnesota;red;Less than one day left
 1929;12800.0;ford;escape;2018;39364.0;missouri;black;More than one week left
-1930;24190.0;ford;doors;2018;4018.0;massachusetts;black;11 days left
+1930;24190.0;ford;doors;2018;4018.0;massachusetts;black;More than one week left
 1931;29100.0;ford;f-150;2019;21054.0;minnesota;red;Less than one day left
-1934;19888.0;ford;doors;2018;34071.0;new jersey;silver;11 days left
+1934;19888.0;ford;doors;2018;34071.0;new jersey;silver;More than one week left
 1935;31000.0;ford;f-150;2019;13600.0;minnesota;white;Less than one day left
-1938;24857.0;ford;doors;2018;33815.0;massachusetts;black;11 days left
+1938;24857.0;ford;doors;2018;33815.0;massachusetts;black;More than one week left
 1939;23500.0;ford;flex;2019;31491.0;minnesota;gray;Less than one day left
 1940;26100.0;ford;f-150;2018;32149.0;mississippi;white;Less than one day left
 1941;10800.0;ford;hybrid;2016;26654.0;new york;black;Less than one day left
-1942;20995.0;ford;doors;2018;36637.0;new york;white;11 days left
+1942;20995.0;ford;doors;2018;36637.0;new york;white;More than one week left
 1943;29300.0;ford;f-150;2019;17000.0;minnesota;white;Less than one day left
 1944;33100.0;ford;f-150;2018;15960.0;mississippi;gray;Less than one day left
-1946;19498.0;ford;doors;2018;40338.0;new york;black;11 days left
+1946;19498.0;ford;doors;2018;40338.0;new york;black;More than one week left
 1947;14900.0;ford;fusion;2019;40505.0;minnesota;gray;Less than one day left
 1949;20600.0;ford;mustang;2019;33965.0;florida;gray;2 days left
-1951;19995.0;ford;doors;2018;42470.0;new york;white;11 days left
+1951;19995.0;ford;doors;2018;42470.0;new york;white;More than one week left
 1952;14900.0;ford;fusion;2019;40670.0;minnesota;silver;Less than one day left
 1954;24500.0;ford;wagon;2019;13162.0;florida;white;Less than one day left
 1955;15000.0;ford;fusion;2018;38744.0;california;white;More than one week left
-1956;26985.0;ford;doors;2018;14023.0;new york;black;11 days left
+1956;26985.0;ford;doors;2018;14023.0;new york;black;More than one week left
 1957;31000.0;ford;f-150;2019;9741.0;minnesota;white;Less than one day left
 1958;24300.0;ford;explorer;2017;31017.0;mississippi;silver;Less than one day left
 1959;16800.0;ford;fusion;2019;37786.0;florida;gray;1 days left
 1960;17200.0;ford;mustang;2018;32415.0;california;white;More than one week left
-1961;34995.0;ford;doors;2018;10421.0;new york;red;11 days left
+1961;34995.0;ford;doors;2018;10421.0;new york;red;More than one week left
 1962;24300.0;ford;wagon;2019;29305.0;minnesota;white;Less than one day left
 1963;26400.0;ford;explorer;2017;51309.0;mississippi;white;Less than one day left
 1964;16800.0;ford;fusion;2019;38001.0;florida;black;1 days left
 1965;15500.0;ford;escape;2018;18849.0;california;black;2 days left
-1966;19440.0;ford;doors;2018;43269.0;new york;silver;11 days left
+1966;19440.0;ford;doors;2018;43269.0;new york;silver;More than one week left
 1967;16700.0;ford;fusion;2019;36989.0;minnesota;silver;Less than one day left
 1969;16100.0;ford;hybrid;2019;34244.0;florida;white;1 days left
 1970;17200.0;ford;mustang;2018;32938.0;california;white;More than one week left
-1971;20950.0;ford;doors;2018;40793.0;new hampshire;black;11 days left
+1971;20950.0;ford;doors;2018;40793.0;new hampshire;black;More than one week left
 1973;29400.0;ford;mustang;2019;25011.0;florida;white;2 days left
-1975;32999.0;ford;doors;2018;6881.0;new jersey;black;11 days left
+1975;32999.0;ford;doors;2018;6881.0;new jersey;black;More than one week left
 1978;28300.0;ford;ranger;2019;15436.0;florida;white;2 days left
-1980;32999.0;ford;doors;2018;16194.0;new jersey;red;11 days left
+1980;32999.0;ford;doors;2018;16194.0;new jersey;red;More than one week left
 1982;5200.0;ford;focus;2017;65164.0;alabama;red;Less than one day left
 1983;20500.0;ford;mustang;2019;35930.0;florida;black;2 days left
-1985;35999.0;ford;doors;2018;13674.0;new jersey;black;11 days left
+1985;35999.0;ford;doors;2018;13674.0;new jersey;black;More than one week left
 1986;41000.0;ford;srw;2019;9235.0;minnesota;silver;Less than one day left
 1988;23500.0;ford;ranger;2019;12836.0;florida;black;2 days left
 1989;18799.0;ford;doors;2015;137728.0;connecticut;red;More than one week left
-1990;33999.0;ford;doors;2018;6921.0;new jersey;;11 days left
+1990;33999.0;ford;doors;2018;6921.0;new jersey;;More than one week left
 1991;35000.0;ford;srw;2019;14359.0;minnesota;white;Less than one day left
 1992;26100.0;ford;wagon;2017;58118.0;mississippi;white;Less than one day left
 1993;15400.0;ford;fusion;2019;31124.0;florida;white;1 days left
 1994;25998.0;ford;doors;2015;25734.0;new york;;More than one week left
-1995;31831.0;ford;doors;2018;14059.0;new jersey;black;11 days left
+1995;31831.0;ford;doors;2018;14059.0;new jersey;black;More than one week left
 1996;40400.0;ford;srw;2019;13472.0;minnesota;black;Less than one day left
 1998;13500.0;ford;hybrid;2019;35023.0;florida;gray;1 days left
 1999;25995.0;ford;doors;2015;39509.0;new hampshire;white;More than one week left
-2000;27990.0;ford;doors;2018;4512.0;new york;silver;11 days left
+2000;27990.0;ford;doors;2018;4512.0;new york;silver;More than one week left
 2001;23985.0;ford;doors;2015;51884.0;new jersey;white;More than one week left
-2002;27995.0;ford;doors;2018;4181.0;pennsylvania;gray;11 days left
+2002;27995.0;ford;doors;2018;4181.0;pennsylvania;gray;More than one week left
 2003;13995.0;ford;doors;2015;56703.0;new york;white;More than one week left
-2004;29988.0;ford;doors;2018;4712.0;pennsylvania;silver;11 days left
+2004;29988.0;ford;doors;2018;4712.0;pennsylvania;silver;More than one week left
 2005;12995.0;ford;doors;2015;102800.0;new jersey;black;More than one week left
-2006;21687.0;ford;doors;2018;7109.0;pennsylvania;black;11 days left
+2006;21687.0;ford;doors;2018;7109.0;pennsylvania;black;More than one week left
 2008;29590.0;ford;doors;2015;3915.0;new york;green;More than one week left
-2009;28999.0;ford;doors;2018;15550.0;pennsylvania;silver;11 days left
+2009;28999.0;ford;doors;2018;15550.0;pennsylvania;silver;More than one week left
 2010;13942.0;ford;doors;2015;62542.0;new jersey;;More than one week left
 2012;35400.0;ford;ranger;2020;671.0;ohio;black;Less than one day left
 2014;13995.0;ford;doors;2015;73891.0;new york;silver;More than one week left
@@ -1515,7 +1515,7 @@
 2125;29500.0;ford;f-150;2018;12271.0;pennsylvania;gray;3 days left
 2126;16100.0;ford;expedition;2014;97318.0;missouri;white;Less than one day left
 2127;32500.0;ford;f-150;2018;12717.0;pennsylvania;red;3 days left
-2128;29000.0;ford;mustang;2019;12764.0;texas;black;10 days left
+2128;29000.0;ford;mustang;2019;12764.0;texas;black;More than one week left
 2129;30000.0;ford;f-150;2018;19951.0;pennsylvania;red;3 days left
 2130;26000.0;ford;explorer;2019;32458.0;north carolina;white;2 days left
 2131;26000.0;ford;f-150;2018;21616.0;pennsylvania;gray;3 days left
@@ -1587,29 +1587,29 @@
 2203;13800.0;ford;fusion;2019;30902.0;north carolina;;2 days left
 2204;5500.0;nissan;sentra;2018;31231.0;north carolina;silver;5 days left
 2205;14400.0;nissan;altima;2020;10728.0;arizona;gray;2 days left
-2206;11450.0;nissan;sport;2018;35374.0;florida;white;More than one week left
-2207;11000.0;nissan;sport;2018;36715.0;florida;black;More than one week left
-2208;11450.0;nissan;sport;2018;33437.0;florida;red;More than one week left
-2209;11000.0;nissan;sport;2018;36788.0;florida;black;More than one week left
-2210;11200.0;nissan;sport;2018;35491.0;florida;black;More than one week left
-2211;11400.0;nissan;sport;2018;33644.0;florida;black;More than one week left
-2212;11450.0;nissan;sport;2018;35831.0;florida;gray;More than one week left
-2213;11050.0;nissan;sport;2018;35050.0;florida;gray;More than one week left
-2214;11400.0;nissan;sport;2018;34924.0;florida;gray;More than one week left
-2215;11050.0;nissan;sport;2018;34962.0;florida;silver;More than one week left
-2216;10850.0;nissan;sport;2018;39985.0;florida;gray;More than one week left
-2217;10900.0;nissan;sport;2018;38816.0;florida;red;More than one week left
-2218;10450.0;nissan;sport;2018;41579.0;florida;red;More than one week left
-2219;10800.0;nissan;sport;2018;40455.0;florida;gray;More than one week left
-2220;10850.0;nissan;sport;2018;39996.0;florida;white;More than one week left
-2221;10800.0;nissan;sport;2018;41077.0;florida;black;More than one week left
-2222;10850.0;nissan;sport;2018;39183.0;florida;gray;More than one week left
-2223;10800.0;nissan;sport;2018;40478.0;florida;black;More than one week left
-2224;10900.0;nissan;sport;2018;38806.0;florida;white;More than one week left
-2225;10400.0;nissan;sport;2018;45331.0;florida;black;More than one week left
-2226;10500.0;nissan;sport;2018;43531.0;florida;black;More than one week left
-2227;10800.0;nissan;sport;2018;41033.0;florida;silver;More than one week left
-2228;10800.0;nissan;sport;2018;40332.0;florida;gray;More than one week left
+2206;11450.0;nissan;sport;2018;35374.0;florida;white;7 days left
+2207;11000.0;nissan;sport;2018;36715.0;florida;black;7 days left
+2208;11450.0;nissan;sport;2018;33437.0;florida;red;7 days left
+2209;11000.0;nissan;sport;2018;36788.0;florida;black;7 days left
+2210;11200.0;nissan;sport;2018;35491.0;florida;black;7 days left
+2211;11400.0;nissan;sport;2018;33644.0;florida;black;7 days left
+2212;11450.0;nissan;sport;2018;35831.0;florida;gray;7 days left
+2213;11050.0;nissan;sport;2018;35050.0;florida;gray;7 days left
+2214;11400.0;nissan;sport;2018;34924.0;florida;gray;7 days left
+2215;11050.0;nissan;sport;2018;34962.0;florida;silver;7 days left
+2216;10850.0;nissan;sport;2018;39985.0;florida;gray;7 days left
+2217;10900.0;nissan;sport;2018;38816.0;florida;red;7 days left
+2218;10450.0;nissan;sport;2018;41579.0;florida;red;7 days left
+2219;10800.0;nissan;sport;2018;40455.0;florida;gray;7 days left
+2220;10850.0;nissan;sport;2018;39996.0;florida;white;7 days left
+2221;10800.0;nissan;sport;2018;41077.0;florida;black;7 days left
+2222;10850.0;nissan;sport;2018;39183.0;florida;gray;7 days left
+2223;10800.0;nissan;sport;2018;40478.0;florida;black;7 days left
+2224;10900.0;nissan;sport;2018;38806.0;florida;white;7 days left
+2225;10400.0;nissan;sport;2018;45331.0;florida;black;7 days left
+2226;10500.0;nissan;sport;2018;43531.0;florida;black;7 days left
+2227;10800.0;nissan;sport;2018;41033.0;florida;silver;7 days left
+2228;10800.0;nissan;sport;2018;40332.0;florida;gray;7 days left
 2229;11200.0;nissan;frontier;2019;22319.0;arizona;silver;2 days left
 2230;11100.0;nissan;rogue;2019;22305.0;arizona;black;2 days left
 2231;12200.0;nissan;maxima;2019;36996.0;arizona;black;2 days left
@@ -1637,11 +1637,11 @@
 2255;3500.0;nissan;altima;2019;30099.0;missouri;white;More than one week left
 2256;750.0;nissan;sentra;2018;37088.0;missouri;gray;More than one week left
 2258;22300.0;nissan;titan;2017;17195.0;texas;white;2 days left
-2259;8300.0;nissan;sedan;2018;43064.0;california;gray;More than one week left
-2260;8300.0;nissan;sedan;2018;47510.0;california;gray;More than one week left
-2261;8000.0;nissan;sedan;2018;52571.0;california;gray;More than one week left
+2259;8300.0;nissan;sedan;2018;43064.0;california;gray;7 days left
+2260;8300.0;nissan;sedan;2018;47510.0;california;gray;7 days left
+2261;8000.0;nissan;sedan;2018;52571.0;california;gray;7 days left
 2262;15200.0;nissan;frontier;2018;12129.0;alabama;black;Less than one day left
-2263;6700.0;nissan;sedan;2017;62280.0;california;white;More than one week left
+2263;6700.0;nissan;sedan;2017;62280.0;california;white;7 days left
 2266;8400.0;nissan;juke;2017;58529.0;connecticut;white;3 days left
 2268;25500.0;nissan;armada;2020;10317.0;california;black;1 days left
 2270;13900.0;nissan;altima;2020;15160.0;california;black;1 days left
@@ -1665,18 +1665,18 @@
 2301;29800.0;nissan;armada;2019;37398.0;california;black;More than one week left
 2302;21100.0;nissan;rogue;2020;19597.0;south carolina;silver;Less than one day left
 2303;16200.0;nissan;rogue;2019;34122.0;california;silver;More than one week left
-2304;6998.0;nissan;doors;2015;43651.0;vermont;black;11 days left
+2304;6998.0;nissan;doors;2015;43651.0;vermont;black;More than one week left
 2305;14700.0;nissan;rogue;2020;15387.0;pennsylvania;gray;2 days left
 2306;19000.0;nissan;cargo;2020;264.0;california;black;Less than one day left
-2308;7998.0;nissan;doors;2015;62921.0;vermont;red;11 days left
-2309;10999.0;nissan;doors;2015;43279.0;massachusetts;black;11 days left
-2311;8495.0;nissan;doors;2015;45043.0;new hampshire;black;11 days left
+2308;7998.0;nissan;doors;2015;62921.0;vermont;red;More than one week left
+2309;10999.0;nissan;doors;2015;43279.0;massachusetts;black;More than one week left
+2311;8495.0;nissan;doors;2015;45043.0;new hampshire;black;More than one week left
 2312;19925.0;nissan;murano;2016;42837.0;alabama;gray;Less than one day left
 2313;9500.0;nissan;sentra;2018;42782.0;new jersey;black;Less than one day left
-2314;12750.0;nissan;doors;2015;24629.0;massachusetts;white;11 days left
-2316;11621.0;nissan;doors;2015;12840.0;rhode island;white;11 days left
-2317;11590.0;nissan;doors;2015;63933.0;new hampshire;red;11 days left
-2319;11390.0;nissan;doors;2015;37953.0;new york;black;11 days left
+2314;12750.0;nissan;doors;2015;24629.0;massachusetts;white;More than one week left
+2316;11621.0;nissan;doors;2015;12840.0;rhode island;white;More than one week left
+2317;11590.0;nissan;doors;2015;63933.0;new hampshire;red;More than one week left
+2319;11390.0;nissan;doors;2015;37953.0;new york;black;More than one week left
 2320;14500.0;nissan;rogue;2017;8677.0;tennessee;black;4 days left
 2321;12000.0;nissan;rogue;2020;11583.0;ohio;black;2 days left
 2322;15000.0;nissan;altima;2020;14320.0;ohio;black;2 days left
