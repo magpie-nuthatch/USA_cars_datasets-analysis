@@ -112,3 +112,8 @@ df_trans = df_trans.drop(df_trans.columns[[5, 7]],
 
 descriptives(df_trans, 
              50)
+
+# Export transformed dataframe as csv file
+
+df_trans.to_csv("csv\\USA_cars_datasets_trans_initial.csv",
+                sep=";")
