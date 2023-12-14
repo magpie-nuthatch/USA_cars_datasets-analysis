@@ -47,7 +47,9 @@ df_trans.drop(df_trans[df_trans["brand"].isin(["harley-davidson"])].index,
 
 # Drop rows where model = "door"
 
-df_trans.drop(df_trans[df_trans["model"].isin(["door"])].index,
+df_trans.drop(df_trans[df_trans["model"].isin(["door",
+                                               "doors",
+                                               "chassis"])].index,
               inplace = True)
 
 # Drop rows where condition = "listing expired"
