@@ -3,9 +3,6 @@ import pandas as pd
 from df_visualisation_normality import normality
 from df_descriptives import descriptives
 
-np.set_printoptions(suppress = True,
-                    formatter = {'float_kind':'{:0.2f}'.format})
-
 df = pd.read_csv("csv_trans\\USA_cars_datasets_trans_initial.csv",
                  encoding='latin1',
                  sep = ";",
