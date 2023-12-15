@@ -2,6 +2,8 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import scipy.stats as stats
+
+
 np.set_printoptions(suppress = True,
                     formatter = {'float_kind':'{:0.2f}'.format})
 
