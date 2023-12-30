@@ -72,7 +72,7 @@ for color in df_trans["color"]:
     elif "white" in color or "off-white" in color:
         colorlist.append("white")
     elif "brown" in color:
-        colorlist.append("white")
+        colorlist.append("brown")
     elif "red" in color or "crimson" in color:
         colorlist.append("red")
     elif "orange" in color:
